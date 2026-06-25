@@ -1,9 +1,7 @@
 # 🚀 안녕하세요, 인프라 엔지니어 [이름]입니다.
 
 <p align="left">
-  <a href="https://github.com/dra2sun7">
-    <img src="https://vht.azurewebsites.net/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdra2sun7&count_bg=%2379389F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
-  </a>
+  <img src="https://komarev.com/badge://gh/profile-counter?username=dra2sun7&color=79389f&style=flat-square&label=VIEWS"/>
 </p>
 
 > **"복잡한 인프라를 코드로 단순화하고, 장애 없는 안정적인 아키텍처를 지향합니다."**
