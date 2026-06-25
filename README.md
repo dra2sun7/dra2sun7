@@ -1,8 +1,8 @@
 # 🚀 안녕하세요, 인프라 엔지니어 [이름]입니다.
 
 <p align="left">
-  <a href="https://github.com/MuziMuzhi/hits">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%dra2sun7&count_bg=%2379389F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
+  <a href="https://github.com/dra2sun7">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dra2sun7&count_bg=%2379389F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/>
   </a>
 </p>
 
