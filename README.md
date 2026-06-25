@@ -1,8 +1,6 @@
-# 🚀 안녕하세요, 인프라 엔지니어 [이름]입니다.
+# 🚀 안녕하세요, 인프라 엔지니어 [이현호]입니다.
 
-<p align="left">
-  <img src="https://komarev.com/badge://gh/profile-counter?username=dra2sun7&color=79389f&style=flat-square&label=VIEWS"/>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=79389F&width=500&lines=Automating+Infrastructure+with+IaC;Building+Scalable+Cloud+Architectures;Focusing+on+Kubernetes+%26+DevOps)
 
 > **"복잡한 인프라를 코드로 단순화하고, 장애 없는 안정적인 아키텍처를 지향합니다."**
 > 
