@@ -43,7 +43,7 @@
   <a href="https://github.com/dra2sun7/security-log-pipeline">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dra2sun7&repo=security-log-pipeline&theme=dark" />
   </a>
-  <a href="https://github.com/dra2sun7/final-front">
+  <a href="https://github.com/dra2sun7/automated-ha-cluster-ops">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dra2sun7&repo=automated-ha-cluster-ops&theme=dark" />
   </a>
 </p>
