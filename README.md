@@ -1,10 +1,10 @@
-# 🚀 안녕하세요, 인프라 엔지니어 [이현호]입니다.
+# 🚀 안녕하세요, 인프라 및 데이터 엔지니어 [이현호]입니다.
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=79389F&width=500&lines=Automating+Infrastructure+with+IaC;Building+Scalable+Cloud+Architectures;Focusing+on+Kubernetes+%26+DevOps)
 
 > **"복잡한 인프라를 코드로 단순화하고, 장애 없는 안정적인 아키텍처를 지향합니다."**
 > 
-> 가상화 및 컨테이너 환경의 대규모 인프라 운영 경험이 있으며, IaC(Terraform, Ansible)를 활용한 인프라 자동화와 모니터링 시스템 구축에 깊은 관심을 가지고 있습니다. 반복되는 수동 작업을 스크립트로 자동화하여 운영 효율을 극대화하는 것을 즐깁니다.
+> 가상화 환경의 인프라 운영 경험이 있으며, IaC(Terraform, Ansible)를 활용한 인프라 자동화와 모니터링 시스템 구축에 깊은 관심을 가지고 있습니다. 반복되는 수동 작업을 스크립트로 자동화하여 운영 효율을 극대화하는 것을 즐깁니다.
 
 <br>
 
@@ -29,7 +29,6 @@
 ### 💻 Backend & Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
@@ -77,5 +76,5 @@
 
 <p align="left">
   <a href="mailto:dra2sun7@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/dra2sun7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <!-- <a href="https://linkedin.com/in/dra2sun7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a> -->
 </p>
