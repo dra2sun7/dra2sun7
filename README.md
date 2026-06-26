@@ -43,14 +43,14 @@
   <a href="https://github.com/dra2sun7/security-log-pipeline">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dra2sun7&repo=security-log-pipeline&theme=dark" />
   </a>
-  <a href="https://github.com/dra2sun7/Coding">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dra2sun7&repo=Coding&theme=dark" />
+  <a href="https://github.com/dra2sun7/final-front">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dra2sun7&repo=automated-ha-cluster-ops&theme=dark" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/dra2sun7/final-front">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dra2sun7&repo=automated-ha-cluster-ops&theme=dark" />
+  <a href="https://github.com/dra2sun7/Coding">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dra2sun7&repo=Coding&theme=dark" />
   </a>
 </p>
 
